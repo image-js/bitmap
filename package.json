@@ -1,0 +1,19 @@
+{
+  "name": "bitmap-image",
+  "version": "0.0.0",
+  "description": "Base class for interoperable image decoding",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/image-js/bitmap.git"
+  },
+  "author": "Michaël Zasso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/image-js/bitmap/issues"
+  },
+  "homepage": "https://github.com/image-js/bitmap#readme"
+}
